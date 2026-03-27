@@ -21,6 +21,7 @@ Key Achievement: Streamlined data visualization for better category-wise trend a
 ☕ Coffee Shop Sales Performance (Excel)
 Analyzed transactional data to identify peak sales hours (9 AM & 11 AM) and high-demand products.
 https://github.com/rohansharma00max-hash/Excel-Sales-Dashboard
+https://github.com/rohansharma00max-hash/Excel-Sales-Dashboard/blob/main/Screenshot%20(4).png
 
 🐍Coffee Shop Sales Analysis (Python)
 Performed Exploratory Data Analysis (EDA) using Pandas and NumPy to clean and process 10k+ rows of transactional data.
