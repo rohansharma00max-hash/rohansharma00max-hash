@@ -29,6 +29,7 @@ Visualized sales patterns with Matplotlib and Seaborn, identifying peak transact
 
 Key Achievement: Automated the sales reporting process,
 https://github.com/rohansharma00max-hash/Coffee-Shop-Sales-Analysis
+https://github.com/rohansharma00max-hash/Coffee-Shop-Sales-Analysis/blob/main/Full_Business_Dashboard.png
 
 Key Achievement: Created a dynamic dashboard using Slicers for real-time business metrics tracking.
 
