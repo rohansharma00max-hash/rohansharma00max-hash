@@ -28,6 +28,7 @@ Performed Exploratory Data Analysis (EDA) using Pandas and NumPy to clean and pr
 Visualized sales patterns with Matplotlib and Seaborn, identifying peak transaction hours and high-revenue product categories.
 
 Key Achievement: Automated the sales reporting process,
+https://github.com/rohansharma00max-hash/Coffee-Shop-Sales-Analysis
 
 Key Achievement: Created a dynamic dashboard using Slicers for real-time business metrics tracking.
 
