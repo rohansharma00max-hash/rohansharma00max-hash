@@ -14,6 +14,7 @@ Platforms: GitHub, Jupyter Notebooks, Excel Sales Dashboards
 📊 Featured Projects
 📈 Retail Sales Analysis Dashboard (Power BI)
 Built an interactive Power BI dashboard to monitor sales, profit, and regional performance.
+https://github.com/rohansharma00max-hash/Data-analytics-Powerbi-project
 
 Key Achievement: Streamlined data visualization for better category-wise trend analysis.
 
